@@ -14,14 +14,14 @@ body {
 }
 
 .card img {
-	width: 500px;
-	height: 500px;
+	width: 400px;
+	height: 400px;
 }
 
 .slideshow-container {
 	display: block;
-	max-width: 500px;
-	height: 500px;
+	max-width: 400px;
+	height: 400px;
 
 	top: 0;
 	left: 0;
@@ -35,6 +35,6 @@ body {
 }
 
 .mySlides img {
-	width: 500px;
-	height: 500px;
+	width: 400px;
+	height: 400px;
 }
